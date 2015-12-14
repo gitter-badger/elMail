@@ -1,2 +1,4 @@
 This is a simple eMail client written using the Enlightenment Fonduation Libraries in Python.
 You can receive your email from any IMAP/POP server and send them using SMTP.
+
+Join the chat at https://gitter.im/bertani/elMail
